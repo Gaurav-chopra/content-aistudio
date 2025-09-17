@@ -1,0 +1,5 @@
+{
+  "name": "Content Production Hub",
+  "description": "An application for managing channels, videos, and creators with full CRUD functionality. Organize your content production workflow by tracking channels, video details, and the creative team involved in each project.",
+  "requestFramePermissions": []
+}
